@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="button_next">My button</string>
+
+    <string name="button_validate1">My button</string>
+    <string name="editText1">Mon text</string>
+    <string name="activyt_main_textview_name">Mon text</string>
+
+</resources>
